@@ -43,6 +43,7 @@ venv.bak/
 shadcn_docs/          # Scraped documentation (usually too large for git)
 scraper_progress.json # Progress file (contains runtime state)
 scraper.log          # Log file (contains runtime logs)
+compiled_docs/        # Compiled documentation for LLM consumption
 
 # OS specific
 .DS_Store
