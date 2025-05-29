@@ -1,0 +1,530 @@
+2025-05-29 13:24:12,373 - INFO - Starting shadcn/ui documentation scrape
+2025-05-29 13:24:12,373 - INFO - Base URL: https://ui.shadcn.com/docs
+2025-05-29 13:24:12,373 - INFO - Output directory: shadcn_docs
+2025-05-29 13:24:12,373 - INFO - Depth limit: 2
+2025-05-29 13:24:12,373 - INFO - [1] Processing: https://ui.shadcn.com/docs
+2025-05-29 13:24:12,373 - INFO - Queue remaining: 0
+2025-05-29 13:24:12,499 - INFO - Saved: docs.md
+2025-05-29 13:24:13,012 - INFO - [2] Processing: https://ui.shadcn.com/docs/installation
+2025-05-29 13:24:13,012 - INFO - Queue remaining: 79
+2025-05-29 13:24:13,066 - INFO - Saved: installation.md
+2025-05-29 13:24:13,576 - INFO - [3] Processing: https://ui.shadcn.com/docs/components
+2025-05-29 13:24:13,576 - INFO - Queue remaining: 79
+2025-05-29 13:24:13,749 - INFO - Saved: components.md
+2025-05-29 13:24:14,259 - INFO - [4] Processing: https://ui.shadcn.com/docs/components-json
+2025-05-29 13:24:14,260 - INFO - Queue remaining: 78
+2025-05-29 13:24:14,643 - INFO - Saved: components-json.md
+2025-05-29 13:24:15,161 - INFO - [5] Processing: https://ui.shadcn.com/docs/theming
+2025-05-29 13:24:15,161 - INFO - Queue remaining: 77
+2025-05-29 13:24:15,500 - INFO - Saved: theming.md
+2025-05-29 13:24:16,072 - INFO - [6] Processing: https://ui.shadcn.com/docs/dark-mode
+2025-05-29 13:24:16,072 - INFO - Queue remaining: 76
+2025-05-29 13:24:16,117 - INFO - Saved: dark-mode.md
+2025-05-29 13:24:16,624 - INFO - [7] Processing: https://ui.shadcn.com/docs/cli
+2025-05-29 13:24:16,624 - INFO - Queue remaining: 79
+2025-05-29 13:24:16,685 - INFO - Saved: cli.md
+2025-05-29 13:24:17,198 - INFO - [8] Processing: https://ui.shadcn.com/docs/monorepo
+2025-05-29 13:24:17,198 - INFO - Queue remaining: 78
+2025-05-29 13:24:17,282 - INFO - Saved: monorepo.md
+2025-05-29 13:24:17,813 - INFO - [9] Processing: https://ui.shadcn.com/docs/tailwind-v4
+2025-05-29 13:24:17,813 - INFO - Queue remaining: 77
+2025-05-29 13:24:17,909 - INFO - Saved: tailwind-v4.md
+2025-05-29 13:24:18,428 - INFO - [10] Processing: https://ui.shadcn.com/docs/react-19
+2025-05-29 13:24:18,428 - INFO - Queue remaining: 76
+2025-05-29 13:24:18,502 - INFO - Saved: react-19.md
+2025-05-29 13:24:19,016 - INFO - [11] Processing: https://ui.shadcn.com/docs/components/typography
+2025-05-29 13:24:19,016 - INFO - Queue remaining: 75
+2025-05-29 13:24:19,109 - INFO - Saved: components/typography.md
+2025-05-29 13:24:19,625 - INFO - [12] Processing: https://ui.shadcn.com/docs/v0
+2025-05-29 13:24:19,625 - INFO - Queue remaining: 74
+2025-05-29 13:24:19,667 - INFO - Saved: v0.md
+2025-05-29 13:24:20,174 - INFO - [13] Processing: https://ui.shadcn.com/docs/blocks
+2025-05-29 13:24:20,174 - INFO - Queue remaining: 73
+2025-05-29 13:24:20,260 - INFO - Saved: blocks.md
+2025-05-29 13:24:20,776 - INFO - [14] Processing: https://ui.shadcn.com/docs/figma
+2025-05-29 13:24:20,776 - INFO - Queue remaining: 72
+2025-05-29 13:24:20,878 - INFO - Saved: figma.md
+2025-05-29 13:24:21,385 - INFO - [15] Processing: https://ui.shadcn.com/docs/changelog
+2025-05-29 13:24:21,385 - INFO - Queue remaining: 71
+2025-05-29 13:24:21,626 - INFO - Saved: changelog.md
+2025-05-29 13:24:22,174 - INFO - [16] Processing: https://ui.shadcn.com/docs/installation/next
+2025-05-29 13:24:22,174 - INFO - Queue remaining: 70
+2025-05-29 13:24:22,398 - INFO - Saved: installation/next.md
+2025-05-29 13:24:22,908 - INFO - [17] Processing: https://ui.shadcn.com/docs/installation/vite
+2025-05-29 13:24:22,908 - INFO - Queue remaining: 69
+2025-05-29 13:24:22,987 - INFO - Saved: installation/vite.md
+2025-05-29 13:24:23,501 - INFO - [18] Processing: https://ui.shadcn.com/docs/installation/laravel
+2025-05-29 13:24:23,501 - INFO - Queue remaining: 68
+2025-05-29 13:24:23,554 - INFO - Saved: installation/laravel.md
+2025-05-29 13:24:24,062 - INFO - [19] Processing: https://ui.shadcn.com/docs/installation/react-router
+2025-05-29 13:24:24,062 - INFO - Queue remaining: 67
+2025-05-29 13:24:24,364 - INFO - Saved: installation/react-router.md
+2025-05-29 13:24:24,875 - INFO - [20] Processing: https://ui.shadcn.com/docs/installation/remix
+2025-05-29 13:24:24,875 - INFO - Queue remaining: 66
+2025-05-29 13:24:25,082 - INFO - Saved: installation/remix.md
+2025-05-29 13:24:25,596 - INFO - [21] Processing: https://ui.shadcn.com/docs/installation/astro
+2025-05-29 13:24:25,596 - INFO - Queue remaining: 65
+2025-05-29 13:24:25,662 - INFO - Saved: installation/astro.md
+2025-05-29 13:24:26,174 - INFO - [22] Processing: https://ui.shadcn.com/docs/installation/tanstack
+2025-05-29 13:24:26,174 - INFO - Queue remaining: 64
+2025-05-29 13:24:26,406 - INFO - Saved: installation/tanstack.md
+2025-05-29 13:24:26,921 - INFO - [23] Processing: https://ui.shadcn.com/docs/installation/tanstack-router
+2025-05-29 13:24:26,921 - INFO - Queue remaining: 63
+2025-05-29 13:24:27,205 - INFO - Saved: installation/tanstack-router.md
+2025-05-29 13:24:27,715 - INFO - [24] Processing: https://ui.shadcn.com/docs/installation/manual
+2025-05-29 13:24:27,715 - INFO - Queue remaining: 62
+2025-05-29 13:24:27,848 - INFO - Saved: installation/manual.md
+2025-05-29 13:24:28,370 - INFO - [25] Processing: https://ui.shadcn.com/docs/components/accordion
+2025-05-29 13:24:28,370 - INFO - Queue remaining: 61
+2025-05-29 13:24:28,434 - INFO - Saved: components/accordion.md
+2025-05-29 13:24:28,944 - INFO - [26] Processing: https://ui.shadcn.com/docs/components/alert
+2025-05-29 13:24:28,944 - INFO - Queue remaining: 60
+2025-05-29 13:24:29,028 - INFO - Saved: components/alert.md
+2025-05-29 13:24:29,541 - INFO - [27] Processing: https://ui.shadcn.com/docs/components/alert-dialog
+2025-05-29 13:24:29,542 - INFO - Queue remaining: 59
+2025-05-29 13:24:29,785 - INFO - Saved: components/alert-dialog.md
+2025-05-29 13:24:30,297 - INFO - [28] Processing: https://ui.shadcn.com/docs/components/aspect-ratio
+2025-05-29 13:24:30,297 - INFO - Queue remaining: 58
+2025-05-29 13:24:30,358 - INFO - Saved: components/aspect-ratio.md
+2025-05-29 13:24:30,867 - INFO - [29] Processing: https://ui.shadcn.com/docs/components/avatar
+2025-05-29 13:24:30,867 - INFO - Queue remaining: 57
+2025-05-29 13:24:30,919 - INFO - Saved: components/avatar.md
+2025-05-29 13:24:31,428 - INFO - [30] Processing: https://ui.shadcn.com/docs/components/badge
+2025-05-29 13:24:31,428 - INFO - Queue remaining: 56
+2025-05-29 13:24:31,676 - INFO - Saved: components/badge.md
+2025-05-29 13:24:32,190 - INFO - [31] Processing: https://ui.shadcn.com/docs/components/breadcrumb
+2025-05-29 13:24:32,190 - INFO - Queue remaining: 55
+2025-05-29 13:24:32,527 - INFO - Saved: components/breadcrumb.md
+2025-05-29 13:24:33,050 - INFO - [32] Processing: https://ui.shadcn.com/docs/components/button
+2025-05-29 13:24:33,050 - INFO - Queue remaining: 54
+2025-05-29 13:24:33,144 - INFO - Saved: components/button.md
+2025-05-29 13:24:33,664 - INFO - [33] Processing: https://ui.shadcn.com/docs/components/calendar
+2025-05-29 13:24:33,664 - INFO - Queue remaining: 53
+2025-05-29 13:24:33,758 - INFO - Saved: components/calendar.md
+2025-05-29 13:24:34,273 - INFO - [34] Processing: https://ui.shadcn.com/docs/components/card
+2025-05-29 13:24:34,273 - INFO - Queue remaining: 52
+2025-05-29 13:24:34,355 - INFO - Saved: components/card.md
+2025-05-29 13:24:34,868 - INFO - [35] Processing: https://ui.shadcn.com/docs/components/carousel
+2025-05-29 13:24:34,868 - INFO - Queue remaining: 51
+2025-05-29 13:24:35,021 - INFO - Saved: components/carousel.md
+2025-05-29 13:24:35,555 - INFO - [36] Processing: https://ui.shadcn.com/docs/components/chart
+2025-05-29 13:24:35,556 - INFO - Queue remaining: 50
+2025-05-29 13:24:35,832 - INFO - Saved: components/chart.md
+2025-05-29 13:24:36,382 - INFO - [37] Processing: https://ui.shadcn.com/docs/components/checkbox
+2025-05-29 13:24:36,382 - INFO - Queue remaining: 49
+2025-05-29 13:24:36,455 - INFO - Saved: components/checkbox.md
+2025-05-29 13:24:36,992 - INFO - [38] Processing: https://ui.shadcn.com/docs/components/collapsible
+2025-05-29 13:24:36,992 - INFO - Queue remaining: 48
+2025-05-29 13:24:37,228 - INFO - Saved: components/collapsible.md
+2025-05-29 13:24:37,738 - INFO - [39] Processing: https://ui.shadcn.com/docs/components/combobox
+2025-05-29 13:24:37,738 - INFO - Queue remaining: 47
+2025-05-29 13:24:37,841 - INFO - Saved: components/combobox.md
+2025-05-29 13:24:38,360 - INFO - [40] Processing: https://ui.shadcn.com/docs/components/command
+2025-05-29 13:24:38,360 - INFO - Queue remaining: 46
+2025-05-29 13:24:38,450 - INFO - Saved: components/command.md
+2025-05-29 13:24:38,969 - INFO - [41] Processing: https://ui.shadcn.com/docs/components/context-menu
+2025-05-29 13:24:38,969 - INFO - Queue remaining: 45
+2025-05-29 13:24:39,025 - INFO - Saved: components/context-menu.md
+2025-05-29 13:24:39,535 - INFO - [42] Processing: https://ui.shadcn.com/docs/components/data-table
+2025-05-29 13:24:39,535 - INFO - Queue remaining: 44
+2025-05-29 13:24:39,915 - INFO - Saved: components/data-table.md
+2025-05-29 13:24:40,493 - INFO - [43] Processing: https://ui.shadcn.com/docs/components/date-picker
+2025-05-29 13:24:40,493 - INFO - Queue remaining: 43
+2025-05-29 13:24:40,571 - INFO - Saved: components/date-picker.md
+2025-05-29 13:24:41,087 - INFO - [44] Processing: https://ui.shadcn.com/docs/components/dialog
+2025-05-29 13:24:41,087 - INFO - Queue remaining: 42
+2025-05-29 13:24:41,167 - INFO - Saved: components/dialog.md
+2025-05-29 13:24:41,681 - INFO - [45] Processing: https://ui.shadcn.com/docs/components/drawer
+2025-05-29 13:24:41,681 - INFO - Queue remaining: 41
+2025-05-29 13:24:41,748 - INFO - Saved: components/drawer.md
+2025-05-29 13:24:42,259 - INFO - [46] Processing: https://ui.shadcn.com/docs/components/dropdown-menu
+2025-05-29 13:24:42,259 - INFO - Queue remaining: 40
+2025-05-29 13:24:42,343 - INFO - Saved: components/dropdown-menu.md
+2025-05-29 13:24:42,860 - INFO - [47] Processing: https://ui.shadcn.com/docs/components/form
+2025-05-29 13:24:42,860 - INFO - Queue remaining: 39
+2025-05-29 13:24:42,960 - INFO - Saved: components/form.md
+2025-05-29 13:24:43,480 - INFO - [48] Processing: https://ui.shadcn.com/docs/components/hover-card
+2025-05-29 13:24:43,480 - INFO - Queue remaining: 38
+2025-05-29 13:24:43,571 - INFO - Saved: components/hover-card.md
+2025-05-29 13:24:44,081 - INFO - [49] Processing: https://ui.shadcn.com/docs/components/input
+2025-05-29 13:24:44,081 - INFO - Queue remaining: 37
+2025-05-29 13:24:44,150 - INFO - Saved: components/input.md
+2025-05-29 13:24:44,664 - INFO - [50] Processing: https://ui.shadcn.com/docs/components/input-otp
+2025-05-29 13:24:44,664 - INFO - Queue remaining: 36
+2025-05-29 13:24:44,775 - INFO - Saved: components/input-otp.md
+2025-05-29 13:24:45,298 - INFO - [51] Processing: https://ui.shadcn.com/docs/components/label
+2025-05-29 13:24:45,298 - INFO - Queue remaining: 35
+2025-05-29 13:24:45,510 - INFO - Saved: components/label.md
+2025-05-29 13:24:46,020 - INFO - [52] Processing: https://ui.shadcn.com/docs/components/menubar
+2025-05-29 13:24:46,020 - INFO - Queue remaining: 34
+2025-05-29 13:24:46,236 - INFO - Saved: components/menubar.md
+2025-05-29 13:24:46,747 - INFO - [53] Processing: https://ui.shadcn.com/docs/components/navigation-menu
+2025-05-29 13:24:46,747 - INFO - Queue remaining: 33
+2025-05-29 13:24:46,823 - INFO - Saved: components/navigation-menu.md
+2025-05-29 13:24:47,335 - INFO - [54] Processing: https://ui.shadcn.com/docs/components/pagination
+2025-05-29 13:24:47,335 - INFO - Queue remaining: 32
+2025-05-29 13:24:47,401 - INFO - Saved: components/pagination.md
+2025-05-29 13:24:47,913 - INFO - [55] Processing: https://ui.shadcn.com/docs/components/popover
+2025-05-29 13:24:47,913 - INFO - Queue remaining: 31
+2025-05-29 13:24:47,973 - INFO - Saved: components/popover.md
+2025-05-29 13:24:48,483 - INFO - [56] Processing: https://ui.shadcn.com/docs/components/progress
+2025-05-29 13:24:48,483 - INFO - Queue remaining: 30
+2025-05-29 13:24:48,542 - INFO - Saved: components/progress.md
+2025-05-29 13:24:49,052 - INFO - [57] Processing: https://ui.shadcn.com/docs/components/radio-group
+2025-05-29 13:24:49,052 - INFO - Queue remaining: 29
+2025-05-29 13:24:49,111 - INFO - Saved: components/radio-group.md
+2025-05-29 13:24:49,623 - INFO - [58] Processing: https://ui.shadcn.com/docs/components/resizable
+2025-05-29 13:24:49,623 - INFO - Queue remaining: 28
+2025-05-29 13:24:49,693 - INFO - Saved: components/resizable.md
+2025-05-29 13:24:50,230 - INFO - [59] Processing: https://ui.shadcn.com/docs/components/scroll-area
+2025-05-29 13:24:50,230 - INFO - Queue remaining: 27
+2025-05-29 13:24:50,560 - INFO - Saved: components/scroll-area.md
+2025-05-29 13:24:51,072 - INFO - [60] Processing: https://ui.shadcn.com/docs/components/select
+2025-05-29 13:24:51,072 - INFO - Queue remaining: 26
+2025-05-29 13:24:51,156 - INFO - Saved: components/select.md
+2025-05-29 13:24:51,671 - INFO - [61] Processing: https://ui.shadcn.com/docs/components/separator
+2025-05-29 13:24:51,671 - INFO - Queue remaining: 25
+2025-05-29 13:24:51,970 - INFO - Saved: components/separator.md
+2025-05-29 13:24:52,490 - INFO - [62] Processing: https://ui.shadcn.com/docs/components/sheet
+2025-05-29 13:24:52,490 - INFO - Queue remaining: 24
+2025-05-29 13:24:52,781 - INFO - Saved: components/sheet.md
+2025-05-29 13:24:53,295 - INFO - [63] Processing: https://ui.shadcn.com/docs/components/sidebar
+2025-05-29 13:24:53,295 - INFO - Queue remaining: 23
+2025-05-29 13:24:53,654 - INFO - Saved: components/sidebar.md
+2025-05-29 13:24:54,251 - INFO - [64] Processing: https://ui.shadcn.com/docs/components/skeleton
+2025-05-29 13:24:54,251 - INFO - Queue remaining: 22
+2025-05-29 13:24:54,304 - INFO - Saved: components/skeleton.md
+2025-05-29 13:24:54,814 - INFO - [65] Processing: https://ui.shadcn.com/docs/components/slider
+2025-05-29 13:24:54,814 - INFO - Queue remaining: 21
+2025-05-29 13:24:54,878 - INFO - Saved: components/slider.md
+2025-05-29 13:24:55,387 - INFO - [66] Processing: https://ui.shadcn.com/docs/components/sonner
+2025-05-29 13:24:55,387 - INFO - Queue remaining: 20
+2025-05-29 13:24:55,442 - INFO - Saved: components/sonner.md
+2025-05-29 13:24:55,953 - INFO - [67] Processing: https://ui.shadcn.com/docs/components/switch
+2025-05-29 13:24:55,953 - INFO - Queue remaining: 19
+2025-05-29 13:24:56,005 - INFO - Saved: components/switch.md
+2025-05-29 13:24:56,516 - INFO - [68] Processing: https://ui.shadcn.com/docs/components/table
+2025-05-29 13:24:56,516 - INFO - Queue remaining: 18
+2025-05-29 13:24:56,578 - INFO - Saved: components/table.md
+2025-05-29 13:24:57,091 - INFO - [69] Processing: https://ui.shadcn.com/docs/components/tabs
+2025-05-29 13:24:57,091 - INFO - Queue remaining: 17
+2025-05-29 13:24:57,149 - INFO - Saved: components/tabs.md
+2025-05-29 13:24:57,659 - INFO - [70] Processing: https://ui.shadcn.com/docs/components/textarea
+2025-05-29 13:24:57,659 - INFO - Queue remaining: 16
+2025-05-29 13:24:57,884 - INFO - Saved: components/textarea.md
+2025-05-29 13:24:58,399 - INFO - [71] Processing: https://ui.shadcn.com/docs/components/toast
+2025-05-29 13:24:58,399 - INFO - Queue remaining: 15
+2025-05-29 13:24:58,474 - INFO - Saved: components/toast.md
+2025-05-29 13:24:58,989 - INFO - [72] Processing: https://ui.shadcn.com/docs/components/toggle
+2025-05-29 13:24:58,989 - INFO - Queue remaining: 14
+2025-05-29 13:24:59,076 - INFO - Saved: components/toggle.md
+2025-05-29 13:24:59,589 - INFO - [73] Processing: https://ui.shadcn.com/docs/components/toggle-group
+2025-05-29 13:24:59,589 - INFO - Queue remaining: 13
+2025-05-29 13:24:59,848 - INFO - Saved: components/toggle-group.md
+2025-05-29 13:25:00,363 - INFO - [74] Processing: https://ui.shadcn.com/docs/components/tooltip
+2025-05-29 13:25:00,363 - INFO - Queue remaining: 12
+2025-05-29 13:25:00,420 - INFO - Saved: components/tooltip.md
+2025-05-29 13:25:00,929 - INFO - [75] Processing: https://ui.shadcn.com/docs/registry
+2025-05-29 13:25:00,929 - INFO - Queue remaining: 11
+2025-05-29 13:25:00,976 - INFO - Saved: registry.md
+2025-05-29 13:25:01,485 - INFO - [76] Processing: https://ui.shadcn.com/docs/registry/getting-started
+2025-05-29 13:25:01,486 - INFO - Queue remaining: 10
+2025-05-29 13:25:01,577 - INFO - Saved: registry/getting-started.md
+2025-05-29 13:25:02,092 - INFO - [77] Processing: https://ui.shadcn.com/docs/registry/examples
+2025-05-29 13:25:02,092 - INFO - Queue remaining: 9
+2025-05-29 13:25:02,721 - INFO - Saved: registry/examples.md
+2025-05-29 13:25:03,247 - INFO - [78] Processing: https://ui.shadcn.com/docs/registry/open-in-v0
+2025-05-29 13:25:03,247 - INFO - Queue remaining: 8
+2025-05-29 13:25:03,457 - INFO - Saved: registry/open-in-v0.md
+2025-05-29 13:25:03,967 - INFO - [79] Processing: https://ui.shadcn.com/docs/registry/faq
+2025-05-29 13:25:03,968 - INFO - Queue remaining: 7
+2025-05-29 13:25:04,375 - INFO - Saved: registry/faq.md
+2025-05-29 13:25:04,889 - INFO - [80] Processing: https://ui.shadcn.com/docs/registry/registry-json
+2025-05-29 13:25:04,889 - INFO - Queue remaining: 6
+2025-05-29 13:25:05,127 - INFO - Saved: registry/registry-json.md
+2025-05-29 13:25:05,639 - INFO - [81] Processing: https://ui.shadcn.com/docs/registry/registry-item-json
+2025-05-29 13:25:05,639 - INFO - Queue remaining: 5
+2025-05-29 13:25:05,969 - INFO - Saved: registry/registry-item-json.md
+2025-05-29 13:25:06,491 - INFO - [82] Processing: https://ui.shadcn.com/docs/installation/gatsby
+2025-05-29 13:25:06,491 - INFO - Queue remaining: 4
+2025-05-29 13:25:06,936 - INFO - Saved: installation/gatsby.md
+2025-05-29 13:25:07,447 - INFO - [83] Processing: https://ui.shadcn.com/docs/dark-mode/next
+2025-05-29 13:25:07,447 - INFO - Queue remaining: 3
+2025-05-29 13:25:07,508 - INFO - Saved: dark-mode/next.md
+2025-05-29 13:25:08,019 - INFO - [84] Processing: https://ui.shadcn.com/docs/dark-mode/vite
+2025-05-29 13:25:08,019 - INFO - Queue remaining: 2
+2025-05-29 13:25:08,100 - INFO - Saved: dark-mode/vite.md
+2025-05-29 13:25:08,617 - INFO - [85] Processing: https://ui.shadcn.com/docs/dark-mode/astro
+2025-05-29 13:25:08,617 - INFO - Queue remaining: 1
+2025-05-29 13:25:08,691 - INFO - Saved: dark-mode/astro.md
+2025-05-29 13:25:09,206 - INFO - [86] Processing: https://ui.shadcn.com/docs/dark-mode/remix
+2025-05-29 13:25:09,206 - INFO - Queue remaining: 0
+2025-05-29 13:25:09,612 - INFO - Saved: dark-mode/remix.md
+2025-05-29 13:25:10,130 - INFO - ==================================================
+2025-05-29 13:25:10,131 - INFO - SCRAPING SUMMARY
+2025-05-29 13:25:10,131 - INFO - ==================================================
+2025-05-29 13:32:07,927 - INFO - Starting shadcn/ui documentation scrape
+2025-05-29 13:32:07,927 - INFO - Base URL: https://ui.shadcn.com/docs
+2025-05-29 13:32:07,927 - INFO - Output directory: shadcn_docs
+2025-05-29 13:32:07,927 - INFO - Depth limit: 2
+2025-05-29 13:32:07,927 - INFO - [1] Processing: https://ui.shadcn.com/docs
+2025-05-29 13:32:07,927 - INFO - Queue remaining: 0
+2025-05-29 13:32:08,030 - INFO - Saved: docs.md
+2025-05-29 13:32:08,540 - INFO - [2] Processing: https://ui.shadcn.com/docs/installation
+2025-05-29 13:32:08,540 - INFO - Queue remaining: 79
+2025-05-29 13:32:08,593 - INFO - Saved: installation.md
+2025-05-29 13:32:09,103 - INFO - [3] Processing: https://ui.shadcn.com/docs/components
+2025-05-29 13:32:09,103 - INFO - Queue remaining: 79
+2025-05-29 13:32:09,178 - INFO - Saved: components.md
+2025-05-29 13:32:09,689 - INFO - [4] Processing: https://ui.shadcn.com/docs/components-json
+2025-05-29 13:32:09,689 - INFO - Queue remaining: 78
+2025-05-29 13:32:09,769 - INFO - Saved: components-json.md
+2025-05-29 13:32:10,286 - INFO - [5] Processing: https://ui.shadcn.com/docs/theming
+2025-05-29 13:32:10,286 - INFO - Queue remaining: 77
+2025-05-29 13:32:10,620 - INFO - Saved: theming.md
+2025-05-29 13:32:11,190 - INFO - [6] Processing: https://ui.shadcn.com/docs/dark-mode
+2025-05-29 13:32:11,190 - INFO - Queue remaining: 76
+2025-05-29 13:32:11,230 - INFO - Saved: dark-mode.md
+2025-05-29 13:32:11,739 - INFO - [7] Processing: https://ui.shadcn.com/docs/cli
+2025-05-29 13:32:11,739 - INFO - Queue remaining: 79
+2025-05-29 13:32:11,806 - INFO - Saved: cli.md
+2025-05-29 13:32:12,318 - INFO - [8] Processing: https://ui.shadcn.com/docs/monorepo
+2025-05-29 13:32:12,318 - INFO - Queue remaining: 78
+2025-05-29 13:32:12,399 - INFO - Saved: monorepo.md
+2025-05-29 13:32:12,930 - INFO - [9] Processing: https://ui.shadcn.com/docs/tailwind-v4
+2025-05-29 13:32:12,930 - INFO - Queue remaining: 77
+2025-05-29 13:32:13,020 - INFO - Saved: tailwind-v4.md
+2025-05-29 13:32:13,539 - INFO - [10] Processing: https://ui.shadcn.com/docs/react-19
+2025-05-29 13:32:13,539 - INFO - Queue remaining: 76
+2025-05-29 13:32:13,612 - INFO - Saved: react-19.md
+2025-05-29 13:32:14,127 - INFO - [11] Processing: https://ui.shadcn.com/docs/components/typography
+2025-05-29 13:32:14,127 - INFO - Queue remaining: 75
+2025-05-29 13:32:14,223 - INFO - Saved: components/typography.md
+2025-05-29 13:32:14,740 - INFO - [12] Processing: https://ui.shadcn.com/docs/v0
+2025-05-29 13:32:14,740 - INFO - Queue remaining: 74
+2025-05-29 13:32:14,780 - INFO - Saved: v0.md
+2025-05-29 13:32:15,288 - INFO - [13] Processing: https://ui.shadcn.com/docs/blocks
+2025-05-29 13:32:15,288 - INFO - Queue remaining: 73
+2025-05-29 13:32:15,377 - INFO - Saved: blocks.md
+2025-05-29 13:32:15,892 - INFO - [14] Processing: https://ui.shadcn.com/docs/figma
+2025-05-29 13:32:15,892 - INFO - Queue remaining: 72
+2025-05-29 13:32:15,936 - INFO - Saved: figma.md
+2025-05-29 13:32:16,444 - INFO - [15] Processing: https://ui.shadcn.com/docs/changelog
+2025-05-29 13:32:16,444 - INFO - Queue remaining: 71
+2025-05-29 13:32:16,684 - INFO - Saved: changelog.md
+2025-05-29 13:32:17,233 - INFO - [16] Processing: https://ui.shadcn.com/docs/installation/next
+2025-05-29 13:32:17,233 - INFO - Queue remaining: 70
+2025-05-29 13:32:17,287 - INFO - Saved: installation/next.md
+2025-05-29 13:32:17,796 - INFO - [17] Processing: https://ui.shadcn.com/docs/installation/vite
+2025-05-29 13:32:17,796 - INFO - Queue remaining: 69
+2025-05-29 13:32:17,868 - INFO - Saved: installation/vite.md
+2025-05-29 13:32:18,383 - INFO - [18] Processing: https://ui.shadcn.com/docs/installation/laravel
+2025-05-29 13:32:18,383 - INFO - Queue remaining: 68
+2025-05-29 13:32:18,440 - INFO - Saved: installation/laravel.md
+2025-05-29 13:32:18,949 - INFO - [19] Processing: https://ui.shadcn.com/docs/installation/react-router
+2025-05-29 13:32:18,949 - INFO - Queue remaining: 67
+2025-05-29 13:32:19,009 - INFO - Saved: installation/react-router.md
+2025-05-29 13:32:19,519 - INFO - [20] Processing: https://ui.shadcn.com/docs/installation/remix
+2025-05-29 13:32:19,519 - INFO - Queue remaining: 66
+2025-05-29 13:32:19,593 - INFO - Saved: installation/remix.md
+2025-05-29 13:32:20,106 - INFO - [21] Processing: https://ui.shadcn.com/docs/installation/astro
+2025-05-29 13:32:20,106 - INFO - Queue remaining: 65
+2025-05-29 13:32:20,170 - INFO - Saved: installation/astro.md
+2025-05-29 13:32:20,681 - INFO - [22] Processing: https://ui.shadcn.com/docs/installation/tanstack
+2025-05-29 13:32:20,681 - INFO - Queue remaining: 64
+2025-05-29 13:32:20,754 - INFO - Saved: installation/tanstack.md
+2025-05-29 13:32:21,268 - INFO - [23] Processing: https://ui.shadcn.com/docs/installation/tanstack-router
+2025-05-29 13:32:21,269 - INFO - Queue remaining: 63
+2025-05-29 13:32:21,320 - INFO - Saved: installation/tanstack-router.md
+2025-05-29 13:32:21,830 - INFO - [24] Processing: https://ui.shadcn.com/docs/installation/manual
+2025-05-29 13:32:21,830 - INFO - Queue remaining: 62
+2025-05-29 13:32:21,965 - INFO - Saved: installation/manual.md
+2025-05-29 13:32:22,488 - INFO - [25] Processing: https://ui.shadcn.com/docs/components/accordion
+2025-05-29 13:32:22,488 - INFO - Queue remaining: 61
+2025-05-29 13:32:22,543 - INFO - Saved: components/accordion.md
+2025-05-29 13:32:23,054 - INFO - [26] Processing: https://ui.shadcn.com/docs/components/alert
+2025-05-29 13:32:23,054 - INFO - Queue remaining: 60
+2025-05-29 13:32:23,116 - INFO - Saved: components/alert.md
+2025-05-29 13:32:23,627 - INFO - [27] Processing: https://ui.shadcn.com/docs/components/alert-dialog
+2025-05-29 13:32:23,627 - INFO - Queue remaining: 59
+2025-05-29 13:32:23,761 - INFO - Saved: components/alert-dialog.md
+2025-05-29 13:32:24,272 - INFO - [28] Processing: https://ui.shadcn.com/docs/components/aspect-ratio
+2025-05-29 13:32:24,272 - INFO - Queue remaining: 58
+2025-05-29 13:32:24,323 - INFO - Saved: components/aspect-ratio.md
+2025-05-29 13:32:24,833 - INFO - [29] Processing: https://ui.shadcn.com/docs/components/avatar
+2025-05-29 13:32:24,833 - INFO - Queue remaining: 57
+2025-05-29 13:32:24,884 - INFO - Saved: components/avatar.md
+2025-05-29 13:32:25,394 - INFO - [30] Processing: https://ui.shadcn.com/docs/components/badge
+2025-05-29 13:32:25,394 - INFO - Queue remaining: 56
+2025-05-29 13:32:25,465 - INFO - Saved: components/badge.md
+2025-05-29 13:32:25,977 - INFO - [31] Processing: https://ui.shadcn.com/docs/components/breadcrumb
+2025-05-29 13:32:25,977 - INFO - Queue remaining: 55
+2025-05-29 13:32:26,079 - INFO - Saved: components/breadcrumb.md
+2025-05-29 13:32:26,602 - INFO - [32] Processing: https://ui.shadcn.com/docs/components/button
+2025-05-29 13:32:26,602 - INFO - Queue remaining: 54
+2025-05-29 13:32:26,782 - INFO - Saved: components/button.md
+2025-05-29 13:32:27,302 - INFO - [33] Processing: https://ui.shadcn.com/docs/components/calendar
+2025-05-29 13:32:27,302 - INFO - Queue remaining: 53
+2025-05-29 13:32:27,394 - INFO - Saved: components/calendar.md
+2025-05-29 13:32:27,909 - INFO - [34] Processing: https://ui.shadcn.com/docs/components/card
+2025-05-29 13:32:27,909 - INFO - Queue remaining: 52
+2025-05-29 13:32:28,089 - INFO - Saved: components/card.md
+2025-05-29 13:32:28,603 - INFO - [35] Processing: https://ui.shadcn.com/docs/components/carousel
+2025-05-29 13:32:28,603 - INFO - Queue remaining: 51
+2025-05-29 13:32:28,750 - INFO - Saved: components/carousel.md
+2025-05-29 13:32:29,281 - INFO - [36] Processing: https://ui.shadcn.com/docs/components/chart
+2025-05-29 13:32:29,281 - INFO - Queue remaining: 50
+2025-05-29 13:32:29,511 - INFO - Saved: components/chart.md
+2025-05-29 13:32:30,061 - INFO - [37] Processing: https://ui.shadcn.com/docs/components/checkbox
+2025-05-29 13:32:30,061 - INFO - Queue remaining: 49
+2025-05-29 13:32:30,131 - INFO - Saved: components/checkbox.md
+2025-05-29 13:32:30,668 - INFO - [38] Processing: https://ui.shadcn.com/docs/components/collapsible
+2025-05-29 13:32:30,668 - INFO - Queue remaining: 48
+2025-05-29 13:32:30,728 - INFO - Saved: components/collapsible.md
+2025-05-29 13:32:31,238 - INFO - [39] Processing: https://ui.shadcn.com/docs/components/combobox
+2025-05-29 13:32:31,238 - INFO - Queue remaining: 47
+2025-05-29 13:32:31,336 - INFO - Saved: components/combobox.md
+2025-05-29 13:32:31,853 - INFO - [40] Processing: https://ui.shadcn.com/docs/components/command
+2025-05-29 13:32:31,853 - INFO - Queue remaining: 46
+2025-05-29 13:32:31,945 - INFO - Saved: components/command.md
+2025-05-29 13:32:32,463 - INFO - [41] Processing: https://ui.shadcn.com/docs/components/context-menu
+2025-05-29 13:32:32,463 - INFO - Queue remaining: 45
+2025-05-29 13:32:32,518 - INFO - Saved: components/context-menu.md
+2025-05-29 13:32:33,028 - INFO - [42] Processing: https://ui.shadcn.com/docs/components/data-table
+2025-05-29 13:32:33,028 - INFO - Queue remaining: 44
+2025-05-29 13:32:33,435 - INFO - Saved: components/data-table.md
+2025-05-29 13:32:34,012 - INFO - [43] Processing: https://ui.shadcn.com/docs/components/date-picker
+2025-05-29 13:32:34,012 - INFO - Queue remaining: 43
+2025-05-29 13:32:34,087 - INFO - Saved: components/date-picker.md
+2025-05-29 13:32:34,603 - INFO - [44] Processing: https://ui.shadcn.com/docs/components/dialog
+2025-05-29 13:32:34,603 - INFO - Queue remaining: 42
+2025-05-29 13:32:34,691 - INFO - Saved: components/dialog.md
+2025-05-29 13:32:35,204 - INFO - [45] Processing: https://ui.shadcn.com/docs/components/drawer
+2025-05-29 13:32:35,205 - INFO - Queue remaining: 41
+2025-05-29 13:32:35,284 - INFO - Saved: components/drawer.md
+2025-05-29 13:32:35,796 - INFO - [46] Processing: https://ui.shadcn.com/docs/components/dropdown-menu
+2025-05-29 13:32:35,796 - INFO - Queue remaining: 40
+2025-05-29 13:32:35,873 - INFO - Saved: components/dropdown-menu.md
+2025-05-29 13:32:36,387 - INFO - [47] Processing: https://ui.shadcn.com/docs/components/form
+2025-05-29 13:32:36,387 - INFO - Queue remaining: 39
+2025-05-29 13:32:36,499 - INFO - Saved: components/form.md
+2025-05-29 13:32:37,018 - INFO - [48] Processing: https://ui.shadcn.com/docs/components/hover-card
+2025-05-29 13:32:37,019 - INFO - Queue remaining: 38
+2025-05-29 13:32:37,101 - INFO - Saved: components/hover-card.md
+2025-05-29 13:32:37,610 - INFO - [49] Processing: https://ui.shadcn.com/docs/components/input
+2025-05-29 13:32:37,610 - INFO - Queue remaining: 37
+2025-05-29 13:32:37,680 - INFO - Saved: components/input.md
+2025-05-29 13:32:38,194 - INFO - [50] Processing: https://ui.shadcn.com/docs/components/input-otp
+2025-05-29 13:32:38,194 - INFO - Queue remaining: 36
+2025-05-29 13:32:38,303 - INFO - Saved: components/input-otp.md
+2025-05-29 13:32:38,828 - INFO - [51] Processing: https://ui.shadcn.com/docs/components/label
+2025-05-29 13:32:38,828 - INFO - Queue remaining: 35
+2025-05-29 13:32:38,886 - INFO - Saved: components/label.md
+2025-05-29 13:32:39,395 - INFO - [52] Processing: https://ui.shadcn.com/docs/components/menubar
+2025-05-29 13:32:39,395 - INFO - Queue remaining: 34
+2025-05-29 13:32:39,461 - INFO - Saved: components/menubar.md
+2025-05-29 13:32:39,973 - INFO - [53] Processing: https://ui.shadcn.com/docs/components/navigation-menu
+2025-05-29 13:32:39,973 - INFO - Queue remaining: 33
+2025-05-29 13:32:40,094 - INFO - Saved: components/navigation-menu.md
+2025-05-29 13:32:40,605 - INFO - [54] Processing: https://ui.shadcn.com/docs/components/pagination
+2025-05-29 13:32:40,605 - INFO - Queue remaining: 32
+2025-05-29 13:32:40,667 - INFO - Saved: components/pagination.md
+2025-05-29 13:32:41,179 - INFO - [55] Processing: https://ui.shadcn.com/docs/components/popover
+2025-05-29 13:32:41,179 - INFO - Queue remaining: 31
+2025-05-29 13:32:41,232 - INFO - Saved: components/popover.md
+2025-05-29 13:32:41,741 - INFO - [56] Processing: https://ui.shadcn.com/docs/components/progress
+2025-05-29 13:32:41,741 - INFO - Queue remaining: 30
+2025-05-29 13:32:41,796 - INFO - Saved: components/progress.md
+2025-05-29 13:32:42,305 - INFO - [57] Processing: https://ui.shadcn.com/docs/components/radio-group
+2025-05-29 13:32:42,305 - INFO - Queue remaining: 29
+2025-05-29 13:32:42,372 - INFO - Saved: components/radio-group.md
+2025-05-29 13:32:42,884 - INFO - [58] Processing: https://ui.shadcn.com/docs/components/resizable
+2025-05-29 13:32:42,884 - INFO - Queue remaining: 28
+2025-05-29 13:32:42,959 - INFO - Saved: components/resizable.md
+2025-05-29 13:32:43,499 - INFO - [59] Processing: https://ui.shadcn.com/docs/components/scroll-area
+2025-05-29 13:32:43,499 - INFO - Queue remaining: 27
+2025-05-29 13:32:43,566 - INFO - Saved: components/scroll-area.md
+2025-05-29 13:32:44,078 - INFO - [60] Processing: https://ui.shadcn.com/docs/components/select
+2025-05-29 13:32:44,078 - INFO - Queue remaining: 26
+2025-05-29 13:32:44,229 - INFO - Saved: components/select.md
+2025-05-29 13:32:44,743 - INFO - [61] Processing: https://ui.shadcn.com/docs/components/separator
+2025-05-29 13:32:44,743 - INFO - Queue remaining: 25
+2025-05-29 13:32:44,790 - INFO - Saved: components/separator.md
+2025-05-29 13:32:45,300 - INFO - [62] Processing: https://ui.shadcn.com/docs/components/sheet
+2025-05-29 13:32:45,300 - INFO - Queue remaining: 24
+2025-05-29 13:32:45,365 - INFO - Saved: components/sheet.md
+2025-05-29 13:32:45,879 - INFO - [63] Processing: https://ui.shadcn.com/docs/components/sidebar
+2025-05-29 13:32:45,880 - INFO - Queue remaining: 23
+2025-05-29 13:32:46,257 - INFO - Saved: components/sidebar.md
+2025-05-29 13:32:46,856 - INFO - [64] Processing: https://ui.shadcn.com/docs/components/skeleton
+2025-05-29 13:32:46,856 - INFO - Queue remaining: 22
+2025-05-29 13:32:46,910 - INFO - Saved: components/skeleton.md
+2025-05-29 13:32:47,420 - INFO - [65] Processing: https://ui.shadcn.com/docs/components/slider
+2025-05-29 13:32:47,420 - INFO - Queue remaining: 21
+2025-05-29 13:32:47,468 - INFO - Saved: components/slider.md
+2025-05-29 13:32:47,977 - INFO - [66] Processing: https://ui.shadcn.com/docs/components/sonner
+2025-05-29 13:32:47,977 - INFO - Queue remaining: 20
+2025-05-29 13:32:48,036 - INFO - Saved: components/sonner.md
+2025-05-29 13:32:48,547 - INFO - [67] Processing: https://ui.shadcn.com/docs/components/switch
+2025-05-29 13:32:48,547 - INFO - Queue remaining: 19
+2025-05-29 13:32:48,602 - INFO - Saved: components/switch.md
+2025-05-29 13:32:49,114 - INFO - [68] Processing: https://ui.shadcn.com/docs/components/table
+2025-05-29 13:32:49,114 - INFO - Queue remaining: 18
+2025-05-29 13:32:49,174 - INFO - Saved: components/table.md
+2025-05-29 13:32:49,686 - INFO - [69] Processing: https://ui.shadcn.com/docs/components/tabs
+2025-05-29 13:32:49,686 - INFO - Queue remaining: 17
+2025-05-29 13:32:49,885 - INFO - Saved: components/tabs.md
+2025-05-29 13:32:50,396 - INFO - [70] Processing: https://ui.shadcn.com/docs/components/textarea
+2025-05-29 13:32:50,396 - INFO - Queue remaining: 16
+2025-05-29 13:32:50,463 - INFO - Saved: components/textarea.md
+2025-05-29 13:32:50,978 - INFO - [71] Processing: https://ui.shadcn.com/docs/components/toast
+2025-05-29 13:32:50,978 - INFO - Queue remaining: 15
+2025-05-29 13:32:51,144 - INFO - Saved: components/toast.md
+2025-05-29 13:32:51,659 - INFO - [72] Processing: https://ui.shadcn.com/docs/components/toggle
+2025-05-29 13:32:51,659 - INFO - Queue remaining: 14
+2025-05-29 13:32:51,755 - INFO - Saved: components/toggle.md
+2025-05-29 13:32:52,269 - INFO - [73] Processing: https://ui.shadcn.com/docs/components/toggle-group
+2025-05-29 13:32:52,269 - INFO - Queue remaining: 13
+2025-05-29 13:32:52,350 - INFO - Saved: components/toggle-group.md
+2025-05-29 13:32:52,866 - INFO - [74] Processing: https://ui.shadcn.com/docs/components/tooltip
+2025-05-29 13:32:52,866 - INFO - Queue remaining: 12
+2025-05-29 13:32:52,917 - INFO - Saved: components/tooltip.md
+2025-05-29 13:32:53,427 - INFO - [75] Processing: https://ui.shadcn.com/docs/registry
+2025-05-29 13:32:53,427 - INFO - Queue remaining: 11
+2025-05-29 13:32:53,468 - INFO - Saved: registry.md
+2025-05-29 13:32:53,976 - INFO - [76] Processing: https://ui.shadcn.com/docs/registry/getting-started
+2025-05-29 13:32:53,976 - INFO - Queue remaining: 10
+2025-05-29 13:32:54,055 - INFO - Saved: registry/getting-started.md
+2025-05-29 13:32:54,571 - INFO - [77] Processing: https://ui.shadcn.com/docs/registry/examples
+2025-05-29 13:32:54,571 - INFO - Queue remaining: 9
+2025-05-29 13:32:54,699 - INFO - Saved: registry/examples.md
+2025-05-29 13:32:55,229 - INFO - [78] Processing: https://ui.shadcn.com/docs/registry/open-in-v0
+2025-05-29 13:32:55,229 - INFO - Queue remaining: 8
+2025-05-29 13:32:55,282 - INFO - Saved: registry/open-in-v0.md
+2025-05-29 13:32:55,792 - INFO - [79] Processing: https://ui.shadcn.com/docs/registry/faq
+2025-05-29 13:32:55,792 - INFO - Queue remaining: 7
+2025-05-29 13:32:55,898 - INFO - Saved: registry/faq.md
+2025-05-29 13:32:56,410 - INFO - [80] Processing: https://ui.shadcn.com/docs/registry/registry-json
+2025-05-29 13:32:56,411 - INFO - Queue remaining: 6
+2025-05-29 13:32:56,487 - INFO - Saved: registry/registry-json.md
+2025-05-29 13:32:56,998 - INFO - [81] Processing: https://ui.shadcn.com/docs/registry/registry-item-json
+2025-05-29 13:32:56,998 - INFO - Queue remaining: 5
+2025-05-29 13:32:57,144 - INFO - Saved: registry/registry-item-json.md
+2025-05-29 13:32:57,667 - INFO - [82] Processing: https://ui.shadcn.com/docs/installation/gatsby
+2025-05-29 13:32:57,667 - INFO - Queue remaining: 4
+2025-05-29 13:32:57,749 - INFO - Saved: installation/gatsby.md
+2025-05-29 13:32:58,262 - INFO - [83] Processing: https://ui.shadcn.com/docs/dark-mode/next
+2025-05-29 13:32:58,262 - INFO - Queue remaining: 3
+2025-05-29 13:32:58,319 - INFO - Saved: dark-mode/next.md
+2025-05-29 13:32:58,830 - INFO - [84] Processing: https://ui.shadcn.com/docs/dark-mode/vite
+2025-05-29 13:32:58,830 - INFO - Queue remaining: 2
+2025-05-29 13:32:58,907 - INFO - Saved: dark-mode/vite.md
+2025-05-29 13:32:59,423 - INFO - [85] Processing: https://ui.shadcn.com/docs/dark-mode/astro
+2025-05-29 13:32:59,423 - INFO - Queue remaining: 1
+2025-05-29 13:32:59,498 - INFO - Saved: dark-mode/astro.md
+2025-05-29 13:33:00,013 - INFO - [86] Processing: https://ui.shadcn.com/docs/dark-mode/remix
+2025-05-29 13:33:00,013 - INFO - Queue remaining: 0
+2025-05-29 13:33:00,101 - INFO - Saved: dark-mode/remix.md
+2025-05-29 13:33:00,620 - INFO - ==================================================
+2025-05-29 13:33:00,620 - INFO - SCRAPING SUMMARY
+2025-05-29 13:33:00,621 - INFO - ==================================================

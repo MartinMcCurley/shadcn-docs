@@ -1,10 +1,10 @@
 # Shadcn/UI Documentation Scraper
 
-A robust Python scraper for downloading and converting [shadcn/ui](https://ui.shadcn.com/) documentation to local Markdown files.
+A Python scraper for downloading and converting [shadcn/ui](https://ui.shadcn.com/) documentation to local Markdown files.
 
 ## Features
 
-- 🚀 **Robust scraping** with error handling and retry logic
+- 🚀 **Efficient scraping** with error handling and retry logic
 - 📊 **Progress tracking** with resume capability if interrupted
 - 🧹 **Content cleaning** removes navigation and unwanted elements
 - 📁 **Organized output** maintains the original documentation structure
